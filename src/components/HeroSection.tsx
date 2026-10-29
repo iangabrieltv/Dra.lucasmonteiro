@@ -25,10 +25,10 @@ export const HeroSection: React.FC = () => {
             {/* Headline with strategic Garamond Italic Gold accent — perfectly balanced on mobile & identical on desktop */}
             <h1 className="font-serif-cormorant text-[32px] xs:text-[38px] sm:text-5xl md:text-6xl lg:text-[64px] font-bold leading-[1.14] sm:leading-[1.08] tracking-tight text-[#F7F5EF]">
               <span className="block font-normal">Segurança jurídica</span>
-              <span className="block mt-0.5 sm:mt-1 font-bold">
-                <span className="hidden sm:inline">para </span>
+              <span className="block mt-0.5 sm:mt-1 font-normal">
+                <span className="hidden sm:inline font-normal">para </span>
                 <span className="sm:hidden font-normal">para proteger seu</span>
-                <span className="hidden sm:inline">proteger seu</span>
+                <span className="hidden sm:inline font-normal">proteger seu</span>
               </span>
               <span className="block font-serif-cormorant italic font-normal text-[#D8B779] mt-0.5 sm:mt-1">
                 patrimônio e seus{' '}
