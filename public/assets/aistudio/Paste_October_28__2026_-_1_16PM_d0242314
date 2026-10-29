@@ -1,0 +1,1328 @@
+# PROJETO: LANDING PAGE MONTEIRO ADVOCACIA ESPECIALIZADA
+
+## 1. SEU PAPEL NESTE PROJETO
+
+Você atuará como um desenvolvedor front-end sênior, designer de interfaces, especialista em UI/UX e implementador de landing pages de alto padrão.
+
+Seu objetivo é transformar referências visuais fornecidas por mim em uma landing page real, funcional, responsiva e visualmente fiel às imagens de referência.
+
+Você deverá trabalhar com atenção especial a:
+
+- Fidelidade visual.
+- Hierarquia tipográfica.
+- Espaçamento e proporções.
+- Cores e identidade visual.
+- Posicionamento de imagens.
+- Composição dos elementos.
+- Responsividade.
+- Microinterações.
+- Performance.
+- Acessibilidade.
+- Organização e manutenção do código.
+
+Não quero que você crie um site genérico de advocacia.
+
+Quero uma página personalizada, construída especificamente para o profissional apresentado neste documento.
+
+O resultado deve parecer um projeto desenvolvido por um designer profissional, e não um template pronto com cores alteradas.
+
+---
+
+# 2. COMO VAMOS TRABALHAR
+
+Esta é uma parte fundamental do projeto.
+
+Não construiremos todas as seções de uma só vez.
+
+Nosso processo será dividido em três etapas.
+
+## ETAPA 1 — COMPREENSÃO DO PROJETO
+
+Neste primeiro momento, você deverá compreender:
+
+- Quem é o profissional.
+- Qual é o escritório.
+- Quais são as áreas de atuação divulgadas.
+- Qual é o público potencial da página.
+- Qual é o objetivo comercial da landing page.
+- Qual identidade visual utilizaremos.
+- Qual copy estamos planejando.
+- Qual será a estrutura da página.
+- Quais informações estão confirmadas.
+- Quais informações ainda precisam ser verificadas.
+
+Leia este documento inteiro antes de começar a desenvolver.
+
+Não implemente a página ainda.
+
+Primeiro, confirme que compreendeu o contexto, a identidade visual, as informações do profissional e o processo de implementação.
+
+Apresente um resumo objetivo do que entendeu e aguarde minha próxima instrução.
+
+## ETAPA 2 — RECEBIMENTO DAS REFERÊNCIAS VISUAIS
+
+Depois que você compreender o projeto, começarei a enviar imagens de referência criadas especificamente para cada seção.
+
+Essas imagens serão os modelos visuais que você deverá reproduzir no site.
+
+Por exemplo:
+
+1. Enviarei a imagem de referência da Hero.
+2. Você implementará a Hero seguindo a referência.
+3. Enviarei a imagem de referência das Áreas de Atuação.
+4. Você implementará essa seção.
+5. Enviarei a imagem de referência da apresentação do advogado.
+6. Você implementará essa seção.
+7. Continuaremos com as demais seções.
+
+Cada imagem enviada representará uma decisão de design.
+
+Você deverá analisar a imagem antes de escrever ou modificar o código.
+
+Observe:
+
+- A estrutura do layout.
+- A largura e a altura dos elementos.
+- O alinhamento dos textos.
+- As margens.
+- Os espaçamentos.
+- A posição das fotografias.
+- As proporções das colunas.
+- O tamanho dos títulos.
+- As famílias tipográficas.
+- As cores.
+- As bordas.
+- Os gradientes.
+- As sobreposições.
+- Os elementos decorativos.
+- A hierarquia visual.
+- O posicionamento dos botões.
+- A relação entre os elementos.
+- A composição geral da seção.
+
+A referência visual específica da seção deve prevalecer sobre qualquer sugestão genérica de layout presente neste documento.
+
+O Design System define a identidade da marca.
+
+A imagem de referência define a composição visual da seção.
+
+As duas coisas devem ser respeitadas simultaneamente.
+
+## ETAPA 3 — IMPLEMENTAÇÃO FIEL
+
+Quando eu enviar uma imagem de referência e solicitar sua implementação, você deverá reproduzir o design no código.
+
+Não quero apenas uma seção inspirada na imagem.
+
+Quero uma reprodução visual fiel.
+
+Não substitua o layout por uma alternativa de sua preferência.
+
+Não reorganize os elementos sem necessidade.
+
+Não transforme uma composição assimétrica em uma composição centralizada.
+
+Não altere a hierarquia visual.
+
+Não adicione componentes que não aparecem na referência, salvo quando forem necessários para o funcionamento, a acessibilidade ou a responsividade.
+
+Não remova elementos visuais importantes.
+
+Não simplifique o design para facilitar a implementação.
+
+Se a referência apresentar três cards, reproduza os três cards.
+
+Se o card central for maior, reproduza essa diferença.
+
+Se a imagem apresentar um título em duas linhas, preserve a composição sempre que possível.
+
+Se houver uma fotografia à esquerda e um texto à direita, mantenha essa estrutura.
+
+Se houver uma marca-d'água, linha dourada, gradiente ou detalhe decorativo, implemente-o de forma correspondente.
+
+O objetivo é aproximar ao máximo o resultado implementado da referência visual fornecida.
+
+---
+
+# 3. IDENTIDADE DO PROFISSIONAL
+
+O projeto é uma landing page para:
+
+MONTEIRO ADVOCACIA ESPECIALIZADA
+
+O advogado está localizado em:
+
+Arapiraca, Alagoas, Brasil.
+
+Telefone informado para contato:
+
++55 82 9607-2142
+
+Instagram informado:
+
+Perfil profissional de Lucas Monteiro, identificado nas referências enviadas.
+
+Publicação de referência fornecida:
+https://www.instagram.com/p/De9OZVZR-V4/
+
+Não há perfil do Google Meu Negócio ou link do Google Maps fornecido para este projeto.
+
+Portanto, não invente endereço comercial, avaliações, nota no Google, quantidade de avaliações ou informações de localização além da cidade e do estado confirmados.
+
+A landing page deverá utilizar o Instagram como principal referência pública para compreender o posicionamento, os conteúdos e a comunicação do profissional.
+
+Quando o acesso direto ao Instagram estiver indisponível, trabalhe com as informações e imagens que eu fornecer.
+
+Não afirme que analisou informações às quais não teve acesso.
+
+---
+
+# 4. O QUE SABEMOS SOBRE O ADVOGADO
+
+O profissional divulga conteúdos relacionados principalmente a:
+
+1. Direito Imobiliário.
+2. Direito Empresarial.
+3. Contratos e Prevenção de Riscos.
+
+Esses são os três eixos que utilizaremos para organizar visualmente a seção de áreas de atuação.
+
+As publicações fornecidas também abordam assuntos como:
+
+- Locação comercial.
+- Compra, venda e negociação de imóveis.
+- Contratos e cláusulas contratuais.
+- Prevenção de conflitos entre sócios.
+- Pejotização e vínculo empregatício.
+- Provas digitais e conversas no WhatsApp.
+- Questões jurídicas relacionadas às empresas.
+
+Esses assuntos foram identificados nas referências enviadas.
+
+Entretanto, a presença de um assunto no Instagram não comprova, por si só, que o advogado ofereça um serviço específico relacionado a ele.
+
+Não transforme automaticamente todos os assuntos publicados em serviços jurídicos anunciados na página.
+
+Não invente:
+
+- Anos de experiência.
+- Quantidade de clientes atendidos.
+- Quantidade de processos.
+- Taxas de sucesso.
+- Resultados garantidos.
+- Premiações.
+- Certificações.
+- Especializações acadêmicas.
+- Formação universitária.
+- Histórico profissional.
+- Depoimentos.
+- Avaliações de clientes.
+- Endereço comercial completo.
+- Equipe de advogados.
+- Filiais.
+- Horários de funcionamento.
+
+Se uma informação não estiver confirmada, não a apresente como fato.
+
+Quando necessário, utilize textos institucionais neutros ou solicite minha confirmação.
+
+---
+
+# 5. OBJETIVO DA LANDING PAGE
+
+A landing page terá como objetivo apresentar o profissional, comunicar suas áreas de atuação, disponibilizar conteúdos jurídicos e facilitar o contato de pessoas que procuram orientação jurídica.
+
+A experiência deve ajudar o visitante a responder a quatro perguntas:
+
+1. Quem é o profissional?
+2. Com quais questões jurídicas ele trabalha?
+3. Que tipo de conteúdo e orientação ele oferece?
+4. Como posso entrar em contato?
+
+A página deve transmitir:
+
+- Autoridade profissional.
+- Segurança.
+- Clareza.
+- Confiança.
+- Sofisticação.
+- Organização.
+- Profissionalismo.
+- Facilidade de navegação.
+
+O design não deve recorrer a promessas exageradas, garantias de resultados ou linguagem comercial agressiva.
+
+O objetivo é construir uma apresentação institucional convincente e profissional.
+
+---
+
+# 6. DESIGN SYSTEM OFICIAL
+
+O projeto seguirá uma identidade visual chamada:
+
+EDITORIAL JURÍDICO CONTEMPORÂNEO.
+
+A estética deverá combinar tradição jurídica, sofisticação editorial e interface moderna.
+
+Não queremos:
+
+- Site corporativo genérico.
+- Template jurídico convencional.
+- Excesso de dourado.
+- Neon.
+- Efeitos 3D desnecessários.
+- Glassmorphism exagerado.
+- Sombras pesadas.
+- Excesso de ícones.
+- Animações chamativas.
+- Gradientes artificiais em excesso.
+- Cards excessivamente arredondados.
+- Elementos decorativos sem função.
+
+A sofisticação deverá surgir da composição, da tipografia, da fotografia, dos espaçamentos e da consistência visual.
+
+## 6.1. PALETA OFICIAL
+
+Verde-petróleo principal:
+#032F2B
+
+Verde escuro:
+#052722
+
+Verde fechado:
+#0A3D36
+
+Dourado champagne:
+#D8B779
+
+Dourado claro:
+#E9D1A0
+
+Branco suave:
+#F7F5EF
+
+Cinza-sálvia:
+#C4CECA
+
+Off-white:
+#F5F2E9
+
+Texto escuro para fundos claros:
+#102E29
+
+Bordas douradas:
+#8D7952
+
+Bordas claras:
+#E7E1D5
+
+### Regras de utilização
+
+O verde-petróleo é a cor principal da marca.
+
+O dourado é utilizado para destacar informações, títulos, linhas, ícones e pequenos detalhes.
+
+Não transforme o dourado na cor dominante.
+
+Mantenha uma proporção visual aproximada de:
+
+- 70% de verde e fundos claros.
+- 20% de cores neutras.
+- 10% de detalhes dourados.
+
+Essa proporção é uma orientação, não uma regra matemática rígida.
+
+## 6.2. TIPOGRAFIA
+
+Utilize somente duas famílias tipográficas.
+
+### Títulos: Cormorant Garamond
+
+Utilize para:
+
+- Títulos principais.
+- Headlines.
+- Títulos das seções.
+- Títulos dos cards.
+- Frases de destaque.
+- Palavras estratégicas.
+
+Características:
+
+- Elegante.
+- Editorial.
+- Serifada.
+- Sofisticada.
+- Tradicional.
+
+Títulos internos:
+
+44–56 px no desktop, ajustados à composição da referência.
+
+Hero:
+
+56–72 px no desktop, conforme a referência.
+
+Peso aproximado:
+
+500.
+
+Altura de linha:
+
+1.1–1.2 nas seções internas.
+
+### Textos e interface: Manrope
+
+Utilize para:
+
+- Parágrafos.
+- Navegação.
+- Botões.
+- Pequenos títulos auxiliares.
+- Labels.
+- Informações complementares.
+- Números.
+- Metadados.
+
+Textos:
+
+16–18 px no desktop.
+
+Altura de linha:
+
+1.6–1.8.
+
+Eyebrows:
+
+12–14 px, em letras maiúsculas, com espaçamento entre letras de 2–3 px.
+
+Utilize fontes responsivas, sem sacrificar a legibilidade.
+
+Se as fontes não estiverem disponíveis no projeto, carregue-as por uma fonte confiável ou utilize uma estratégia de fallback apropriada.
+
+---
+
+# 7. SISTEMA DE FUNDOS
+
+O projeto alternará entre duas famílias de fundos.
+
+## AMBIENTE DARK
+
+Fundo principal:
+
+#032F2B
+
+Variações:
+
+#052722
+#0A3D36
+
+Utilizado principalmente em:
+
+- Hero.
+- Áreas de Atuação.
+- Conteúdos Jurídicos.
+- Seções institucionais.
+- Blocos de impacto.
+
+Pode utilizar fotografias com overlay verde, gradientes, vinhetas e marcas-d'água discretas.
+
+## AMBIENTE LIGHT
+
+Fundos:
+
+#FFFFFF
+#F5F2E9
+
+Utilizado principalmente em:
+
+- Conheça o Advogado.
+- Seções editoriais.
+- Conteúdos institucionais que exigem maior conforto de leitura.
+
+O ritmo visual da página será:
+
+DARK → DARK → LIGHT → DARK → LIGHT.
+
+Essa sequência poderá ser ajustada de acordo com as referências visuais que eu enviar, sem perder a identidade da marca.
+
+---
+
+# 8. FOTOGRAFIAS E IDENTIDADE VISUAL
+
+As fotografias reais fornecidas são prioritárias.
+
+Já foram fornecidas imagens do advogado, incluindo:
+
+1. Uma fotografia em que ele aparece usando terno azul, sentado à mesa.
+2. Uma fotografia em que aparece de terno escuro, com os braços cruzados.
+3. A logomarca da Monteiro Advocacia Especializada.
+
+Esses arquivos devem ser tratados como referências oficiais do profissional e da marca.
+
+Utilize as imagens originais sempre que forem adequadas à seção.
+
+Não substitua a fotografia do advogado por imagens geradas de pessoas semelhantes.
+
+Não gere um rosto novo.
+
+Não altere as características faciais.
+
+Não troque a roupa da pessoa.
+
+Não modifique as proporções físicas.
+
+Não deforme mãos ou partes do corpo.
+
+Não distorça a logomarca.
+
+Não reconstrua o logotipo com uma tipografia aproximada se o arquivo original estiver disponível.
+
+Se uma fotografia for enviada para uma seção específica, utilize essa fotografia conforme a composição definida.
+
+### Tratamento das imagens
+
+Em seções escuras:
+
+- Utilize overlays verdes quando apropriado.
+- Integre a fotografia ao fundo.
+- Preserve detalhes importantes.
+- Evite escurecer excessivamente o rosto.
+
+Em seções claras:
+
+- Preserve a aparência natural.
+- Utilize contraste controlado.
+- Prefira bordas discretas.
+- Evite filtros pesados.
+
+O tratamento deve valorizar as imagens sem modificar a identidade das pessoas.
+
+---
+
+# 9. GRID E ESPAÇAMENTOS
+
+Utilize um container centralizado com largura máxima aproximada de 1200–1280 px.
+
+O padding horizontal no desktop deverá variar entre 40 e 64 px, conforme a referência.
+
+Utilize grid flexível, preferencialmente com 12 colunas ou uma estrutura equivalente.
+
+As composições podem ser:
+
+- 45/55.
+- 50/50.
+- 5/7.
+- Três cards.
+- Composição assimétrica.
+- Layout editorial.
+- Seção em largura ampla.
+
+Não centralize tudo automaticamente.
+
+A assimetria pode ser utilizada para criar sofisticação.
+
+### Escala de espaçamento
+
+8 px.
+12 px.
+16 px.
+24 px.
+32 px.
+48 px.
+64 px.
+80 px.
+96 px.
+120 px.
+
+Entre elementos relacionados:
+
+16–32 px.
+
+Entre blocos:
+
+48–80 px.
+
+Entre seções:
+
+100–140 px, conforme a composição.
+
+Esses valores são referências. A imagem enviada para cada seção terá prioridade na definição das proporções.
+
+---
+
+# 10. BORDAS, BOTÕES E COMPONENTES
+
+## Bordas
+
+Em fundos escuros:
+
+rgba(216, 183, 121, 0.35)
+
+Em fundos claros:
+
+#E7E1D5
+
+Espessura preferencial:
+
+1 px.
+
+## Border radius
+
+Imagens:
+
+4–8 px.
+
+Cards:
+
+8–12 px.
+
+Botões:
+
+6–8 px.
+
+Evite arredondamentos excessivos.
+
+## Botão principal
+
+Em fundo claro:
+
+- Fundo verde-petróleo.
+- Texto branco.
+- Seta dourada, quando apropriado.
+
+Em fundo escuro:
+
+- Fundo dourado champagne quando a referência indicar um CTA destacado.
+- Texto com contraste adequado.
+
+Altura:
+
+48–54 px.
+
+Padding horizontal:
+
+24–32 px.
+
+## Botão secundário
+
+Pode utilizar:
+
+- Fundo transparente.
+- Borda dourada.
+- Texto branco ou dourado em fundos escuros.
+- Texto verde-petróleo em fundos claros.
+
+O botão secundário não deve competir com o principal.
+
+## Ícones
+
+Utilize ícones lineares, minimalistas e consistentes.
+
+Espessura aproximada:
+
+1.5–2 px.
+
+Não utilize emojis como elementos de interface.
+
+Não misture diferentes estilos de ícones.
+
+---
+
+# 11. ESTRUTURA DA LANDING PAGE
+
+A página será desenvolvida com as seguintes seções.
+
+Esta é a estrutura planejada. Ela poderá ser refinada quando eu enviar as referências visuais de cada parte.
+
+## SEÇÃO 01 — HERO
+
+Objetivo:
+
+Apresentar imediatamente o advogado, o posicionamento da marca e os principais temas de atuação.
+
+Elementos previstos:
+
+- Logomarca.
+- Navegação principal.
+- Fotografia profissional.
+- Headline.
+- Texto de apoio.
+- Botão de contato.
+- Eventual botão secundário.
+- Detalhes decorativos da identidade visual.
+
+A referência visual da Hero já foi definida.
+
+A composição deverá seguir a imagem específica que eu enviar para implementação.
+
+### Copy planejada para a Hero
+
+Eyebrow:
+
+MONTEIRO ADVOCACIA ESPECIALIZADA
+
+Headline:
+
+Segurança jurídica para proteger seu patrimônio e seus negócios.
+
+Texto de apoio:
+
+Atuação voltada às questões imobiliárias e empresariais, com atenção aos contratos, à prevenção de riscos e à segurança jurídica nas relações comerciais.
+
+CTA principal:
+
+Entre em contato.
+
+CTA secundário, se houver espaço na referência:
+
+Conheça as áreas de atuação.
+
+Esses textos constituem a proposta inicial de copy. Ajuste somente quando houver uma razão clara de comunicação, uma limitação visual ou uma solicitação minha.
+
+Não acrescente promessas de resultados.
+
+## SEÇÃO 02 — ÁREAS DE ATUAÇÃO
+
+Objetivo:
+
+Apresentar os três eixos principais de atuação de maneira clara e visualmente organizada.
+
+O layout já foi planejado com três cards:
+
+- Card lateral esquerdo.
+- Card central em destaque.
+- Card lateral direito.
+
+O card central deverá ter maior destaque visual, seguindo a referência enviada.
+
+A seção utiliza fundo verde-petróleo, detalhes dourados, fotografias integradas aos cards e tipografia editorial.
+
+### Copy planejada
+
+Eyebrow:
+
+ÁREAS DE ATUAÇÃO
+
+Título:
+
+Soluções jurídicas para proteger seus interesses.
+
+Descrição:
+
+Atuação voltada às questões imobiliárias e empresariais, com atenção aos contratos, à segurança jurídica e à prevenção de riscos.
+
+### Card 01 — Direito Imobiliário
+
+Título:
+
+Direito Imobiliário.
+
+Descrição:
+
+Segurança jurídica em negociações, contratos e operações imobiliárias, com atenção aos interesses envolvidos em cada transação.
+
+CTA:
+
+Saiba mais.
+
+### Card 02 — Contratos e Prevenção de Riscos
+
+Título:
+
+Contratos e Prevenção de Riscos.
+
+Descrição:
+
+Análise e elaboração de contratos e estratégias jurídicas para prevenir riscos e proporcionar mais segurança nas decisões.
+
+CTA:
+
+Saiba mais.
+
+Este é o card central e o principal destaque da seção.
+
+### Card 03 — Direito Empresarial
+
+Título:
+
+Direito Empresarial.
+
+Descrição:
+
+Orientação jurídica em questões contratuais e empresariais, buscando mais segurança nas relações comerciais e nas decisões do negócio.
+
+CTA:
+
+Saiba mais.
+
+### Comportamento
+
+Os cards poderão receber efeitos discretos de hover.
+
+Caso existam páginas específicas para essas áreas, os botões poderão direcionar para elas.
+
+Como estamos construindo uma landing page, não crie páginas fictícias sem minha autorização.
+
+Se ainda não houver um destino definido, deixe os links preparados para serem configurados ou utilize âncoras existentes e apropriadas.
+
+## SEÇÃO 03 — CONHEÇA O ADVOGADO
+
+Objetivo:
+
+Apresentar o profissional por trás da Monteiro Advocacia Especializada.
+
+Esta seção terá fundo branco ou off-white, criando contraste com as seções escuras.
+
+### Direção visual
+
+- Fotografia original do advogado à esquerda.
+- Texto editorial à direita.
+- Fundo claro.
+- Títulos verde-petróleo.
+- Destaques dourados.
+- Tipografia Cormorant Garamond e Manrope.
+- Bastante espaço negativo.
+- Composição assimétrica e sofisticada.
+
+### Copy planejada
+
+Eyebrow:
+
+SOBRE O ADVOGADO
+
+Título:
+
+Conhecimento jurídico com foco na proteção dos seus interesses.
+
+Texto:
+
+O Monteiro Advocacia Especializada atua em questões imobiliárias e empresariais, com atenção à análise de contratos, à prevenção de riscos e à segurança jurídica nas relações comerciais.
+
+O trabalho busca compreender as necessidades de cada cliente e oferecer orientação jurídica adequada à situação apresentada.
+
+CTA:
+
+Conheça o escritório.
+
+### Restrições
+
+Não invente uma biografia pessoal.
+
+Não invente formação, tempo de carreira, especializações ou experiências que não foram fornecidas.
+
+Quando tivermos informações confirmadas sobre a trajetória profissional, poderemos substituir ou complementar esse texto.
+
+## SEÇÃO 04 — CONTEÚDO JURÍDICO
+
+Objetivo:
+
+Apresentar os vídeos que o advogado publica no Instagram, permitindo que os visitantes conheçam seus conteúdos jurídicos.
+
+Esta seção deverá utilizar fundo verde-petróleo escuro.
+
+Ela deverá manter o mesmo sistema visual das seções anteriores, mas com uma composição diferente, evitando repetição excessiva.
+
+### Copy planejada
+
+Eyebrow:
+
+CONTEÚDO JURÍDICO
+
+Título:
+
+Informação jurídica para decisões mais conscientes.
+
+Texto:
+
+Acompanhe conteúdos sobre contratos, imóveis, empresas e prevenção de riscos.
+
+### Cards de vídeo
+
+A referência visual prevê três cards lado a lado.
+
+Os cards deverão conter:
+
+- Capa real do vídeo.
+- Botão de reprodução.
+- Categoria do conteúdo.
+- Título do vídeo.
+- Eventual duração, somente quando confirmada.
+
+Temas iniciais:
+
+01 — Direito Imobiliário.
+
+Tema sugerido:
+
+Locação comercial: o que você precisa saber?
+
+02 — Contratos.
+
+Tema sugerido:
+
+Cláusulas contratuais que podem gerar problemas.
+
+03 — Direito Empresarial.
+
+Tema sugerido:
+
+Pejotização: o que você precisa entender?
+
+IMPORTANTE:
+
+Esses títulos são sugestões editoriais baseadas nos temas das publicações fornecidas.
+
+Não os apresente como títulos oficiais de vídeos existentes sem verificar as publicações reais.
+
+Quando eu fornecer os links específicos, utilize os vídeos correspondentes.
+
+### Funcionamento dos vídeos
+
+Sempre que possível, permita que os vídeos sejam reproduzidos dentro da própria página.
+
+A implementação poderá utilizar o recurso oficial de incorporação do Instagram, quando disponível e funcional.
+
+Se a incorporação não for possível, utilize uma alternativa funcional que direcione para a publicação original.
+
+Não crie players falsos.
+
+Não utilize imagens de vídeos inexistentes.
+
+Não invente links.
+
+### CTA
+
+Ver todos os conteúdos no Instagram.
+
+O botão deverá direcionar para o perfil profissional correto, depois que o link for confirmado.
+
+---
+
+# 12. SEÇÕES FUTURAS
+
+Depois das quatro primeiras seções, planejamos continuar com:
+
+## SEÇÃO 05 — COMO FUNCIONA O ATENDIMENTO
+
+Objetivo:
+
+Explicar de maneira simples como o visitante pode iniciar um contato e conhecer as próximas etapas do atendimento.
+
+A composição visual e a copy definitiva serão definidas posteriormente.
+
+Não invente um processo interno de atendimento como se fosse confirmado.
+
+A proposta inicial poderá utilizar etapas genéricas, desde que sejam validadas antes da publicação.
+
+## SEÇÃO 06 — PERGUNTAS FREQUENTES
+
+Objetivo:
+
+Responder às principais dúvidas dos visitantes.
+
+As perguntas e respostas serão definidas posteriormente.
+
+Não invente políticas de atendimento, preços, prazos, resultados ou condições comerciais.
+
+## SEÇÃO 07 — CONTATO
+
+Objetivo:
+
+Facilitar o contato com o advogado.
+
+O telefone informado é:
+
++55 82 9607-2142
+
+Poderemos utilizar um botão de WhatsApp com uma mensagem inicial neutra.
+
+Não invente horários de funcionamento ou prazos de resposta.
+
+## SEÇÃO 08 — RODAPÉ
+
+Objetivo:
+
+Encerrar a página com uma apresentação institucional.
+
+Elementos previstos:
+
+- Logomarca.
+- Nome do escritório.
+- Navegação.
+- Instagram.
+- Contato.
+- Informações institucionais confirmadas.
+
+Não invente número da OAB, endereço completo, e-mail ou outros dados profissionais.
+
+---
+
+# 13. DIRETRIZES DE COPYWRITING
+
+A comunicação deverá ser profissional, clara e objetiva.
+
+O texto deve transmitir segurança sem utilizar exageros comerciais.
+
+Prefira:
+
+- Frases claras.
+- Parágrafos curtos.
+- Linguagem natural.
+- Vocabulário jurídico compreensível.
+- Títulos com personalidade.
+- Destaques pontuais.
+- CTAs diretos.
+
+Evite:
+
+- Jargões desnecessários.
+- Textos excessivamente longos.
+- Repetição constante das mesmas palavras.
+- Promessas de resultados.
+- Garantias de sucesso.
+- Afirmações não verificadas.
+- Sensacionalismo.
+- Urgência artificial.
+- Superlativos sem fundamento.
+
+Não use frases como:
+
+"Resultado garantido."
+
+"Ganhe sua causa."
+
+"O melhor advogado da região."
+
+"100% de sucesso."
+
+Não publique depoimentos fictícios nem avaliações inventadas.
+
+A copy deverá ser consistente em toda a página.
+
+Não altere os textos já definidos sem necessidade.
+
+Se identificar uma melhoria importante, apresente a sugestão antes de substituir a copy aprovada.
+
+---
+
+# 14. REGRAS DE FIDELIDADE VISUAL
+
+Esta é uma das partes mais importantes do projeto.
+
+As imagens que enviarei serão referências visuais específicas, não apenas fontes de inspiração.
+
+Quando receber uma referência, faça uma análise visual e reproduza os principais elementos da composição.
+
+Observe especialmente:
+
+1. Dimensões relativas dos elementos.
+2. Proporção entre colunas.
+3. Alinhamento.
+4. Espaçamento.
+5. Tipografia.
+6. Hierarquia visual.
+7. Cores.
+8. Bordas.
+9. Imagens.
+10. Gradientes.
+11. Elementos decorativos.
+12. Botões.
+13. Distribuição do conteúdo.
+14. Proporção entre texto e imagem.
+
+### Não faça o seguinte:
+
+- Não transforme a referência em um layout genérico.
+- Não substitua imagens por fotografias aleatórias.
+- Não altere a identidade visual.
+- Não troque a tipografia sem motivo.
+- Não mude a posição dos elementos.
+- Não adicione cards desnecessários.
+- Não altere a quantidade de elementos principais.
+- Não invente conteúdo para preencher espaços.
+- Não transforme tudo em componentes arredondados.
+- Não aplique efeitos chamativos que não aparecem na referência.
+
+### Se houver alguma limitação
+
+Se uma parte da referência não puder ser reproduzida exatamente, explique a limitação e implemente a alternativa mais próxima possível.
+
+Não altere silenciosamente o design.
+
+---
+
+# 15. RESPONSIVIDADE
+
+A página deverá funcionar em:
+
+- Computadores desktop.
+- Notebooks.
+- Tablets.
+- Celulares.
+
+A versão desktop deverá reproduzir a composição da referência enviada.
+
+A versão mobile deverá preservar a mesma identidade visual e hierarquia, adaptando a disposição dos elementos para telas menores.
+
+Não basta diminuir tudo proporcionalmente.
+
+Ajuste:
+
+- Tamanho da tipografia.
+- Espaçamento.
+- Largura dos containers.
+- Proporção das imagens.
+- Ordem dos elementos quando necessário.
+- Disposição dos cards.
+- Área de toque dos botões.
+- Legibilidade.
+- Navegação.
+
+Não permita:
+
+- Rolagem horizontal indesejada.
+- Texto cortado.
+- Imagens deformadas.
+- Botões sobrepostos.
+- Cards com conteúdo transbordando.
+- Títulos ilegíveis.
+- Rostos cortados de forma inadequada.
+
+Quando houver uma referência visual para a versão mobile, utilize-a como orientação específica.
+
+---
+
+# 16. FUNCIONALIDADE E IMPLEMENTAÇÃO
+
+O site não deve ser apenas uma imagem estática.
+
+Cada seção deverá ser construída com elementos reais de interface.
+
+Os botões precisam funcionar.
+
+A navegação precisa funcionar.
+
+Os links devem levar aos destinos corretos.
+
+Os vídeos devem utilizar incorporações reais ou links válidos.
+
+Os elementos interativos devem ter estados de hover e foco apropriados.
+
+A página deverá ser acessível por teclado sempre que aplicável.
+
+Utilize HTML semântico e boas práticas de acessibilidade.
+
+Implemente estados de carregamento e tratamento de erros quando necessários.
+
+Não invente funcionalidades que não façam parte do escopo.
+
+### Código existente
+
+Antes de alterar o projeto, inspecione sua estrutura e identifique:
+
+- Framework utilizado.
+- Organização dos arquivos.
+- Componentes existentes.
+- Sistema de estilos.
+- Dependências.
+- Configuração de rotas.
+- Recursos de imagens.
+- Fontes carregadas.
+
+Preserve as tecnologias e os padrões existentes sempre que forem adequados.
+
+Não substitua a estrutura do projeto inteiro sem necessidade.
+
+Não remova funcionalidades existentes.
+
+Não recrie componentes já implementados sem uma razão técnica.
+
+Se for necessário modificar arquivos compartilhados, faça isso com cuidado para evitar regressões.
+
+---
+
+# 17. IMAGENS DE REFERÊNCIA E ARQUIVOS
+
+Quando eu enviar uma imagem para reproduzir uma seção, trate-a como a principal referência visual daquela parte.
+
+Se eu enviar também uma fotografia original ou uma logomarca, utilize o arquivo correspondente.
+
+Não use a captura de tela inteira como imagem de fundo do site para simular o resultado.
+
+O objetivo é reconstruir a interface com HTML, CSS e os recursos adequados.
+
+Não transforme a imagem de referência em uma única imagem de fundo contendo todos os textos e elementos.
+
+Os textos devem continuar selecionáveis.
+
+Os botões devem ser funcionais.
+
+Os cards devem ser componentes reais.
+
+As imagens devem ter tratamento adequado.
+
+A página precisa ser responsiva.
+
+A reprodução visual deve ser feita por meio de código, não pela simples exibição da referência.
+
+---
+
+# 18. PROCESSO DE IMPLEMENTAÇÃO DE CADA SEÇÃO
+
+Sempre que eu enviar uma imagem de referência, siga esta sequência:
+
+### PASSO 1 — ANALISAR
+
+Identifique a composição, os elementos, as cores, as proporções, a tipografia e os espaçamentos.
+
+### PASSO 2 — MAPEAR
+
+Relacione os elementos visuais aos componentes do projeto.
+
+Identifique as imagens, os textos e os recursos necessários.
+
+### PASSO 3 — IMPLEMENTAR
+
+Construa a seção utilizando o código do projeto existente.
+
+Mantenha a identidade visual oficial.
+
+### PASSO 4 — INTEGRAR
+
+Insira a seção no lugar correto da página.
+
+Preserve o funcionamento das demais seções.
+
+Mantenha o espaçamento entre as partes.
+
+### PASSO 5 — VALIDAR
+
+Confira:
+
+- Correspondência visual com a referência.
+- Tipografia.
+- Cores.
+- Alinhamento.
+- Espaçamento.
+- Responsividade.
+- Funcionamento dos botões.
+- Integridade das imagens.
+- Ausência de erros.
+
+### PASSO 6 — INFORMAR
+
+Ao terminar, informe:
+
+- Qual seção foi implementada.
+- Quais arquivos foram modificados.
+- Quais funcionalidades estão funcionando.
+- Quais informações ou links ainda dependem de confirmação.
+- Se existe alguma diferença importante em relação à referência.
+
+Não declare que a implementação está perfeita sem ter realizado uma verificação adequada.
+
+---
+
+# 19. ORGANIZAÇÃO DO DESIGN SYSTEM NO CÓDIGO
+
+Mantenha as cores, fontes e parâmetros recorrentes organizados em variáveis ou tokens reutilizáveis.
+
+Exemplo conceitual:
+
+--color-deep-teal: #032F2B;
+--color-dark-teal: #052722;
+--color-forest-teal: #0A3D36;
+--color-champagne-gold: #D8B779;
+--color-soft-gold: #E9D1A0;
+--color-soft-white: #F7F5EF;
+--color-muted-sage: #C4CECA;
+--color-warm-off-white: #F5F2E9;
+--color-deep-green: #102E29;
+--color-muted-gold: #8D7952;
+--color-warm-border: #E7E1D5;
+
+Defina também:
+
+- Famílias tipográficas.
+- Escala de espaçamento.
+- Larguras de containers.
+- Breakpoints.
+- Raios de borda.
+- Transições.
+- Estilos de botões.
+
+Não é necessário usar exatamente essa nomenclatura, mas a organização deverá permitir manter a consistência visual durante todo o desenvolvimento.
+
+---
+
+# 20. REGRAS DE COLABORAÇÃO
+
+Eu sou o responsável por definir a direção visual do projeto.
+
+Você é responsável por transformar essa direção em uma implementação funcional.
+
+Trabalharemos em conjunto.
+
+Quando eu enviar uma imagem, não interprete isso como autorização para reinventar a seção.
+
+Quando eu solicitar uma alteração específica, altere somente o que foi solicitado, preservando os demais elementos.
+
+Se eu pedir para modificar uma cor, não redesenhe toda a seção.
+
+Se eu pedir para corrigir um espaçamento, não altere a tipografia inteira.
+
+Se eu enviar uma nova versão da referência, considere a nova versão como a referência atual daquela seção.
+
+Se houver uma contradição entre uma referência antiga e uma referência nova para a mesma seção, priorize a mais recente.
+
+Não peça novamente informações que já estão disponíveis neste documento.
+
+Se uma informação realmente necessária estiver ausente, faça uma pergunta objetiva.
+
+Não invente respostas para preencher lacunas.
+
+---
+
+# 21. OBJETIVO FINAL
+
+Construir uma landing page jurídica premium para a Monteiro Advocacia Especializada.
+
+O site deverá combinar:
+
+- Identidade visual consistente.
+- Fotografia autêntica.
+- Copy profissional.
+- Design editorial.
+- Interface responsiva.
+- Navegação funcional.
+- Conteúdos jurídicos.
+- Apresentação clara das áreas de atuação.
+- Facilidade de contato.
+
+O resultado deve parecer uma landing page desenvolvida sob medida para este profissional.
+
+A página precisa ter personalidade própria, sem perder a consistência entre suas seções.
+
+A prioridade é reproduzir fielmente as referências visuais que enviarei, respeitando as informações reais do advogado e o Design System definido neste documento.
+
+---
+
+# SUA PRIMEIRA TAREFA
+
+Neste momento, NÃO comece a programar.
+
+Primeiro, leia e compreenda todo o documento.
+
+Depois, responda com:
+
+1. Um resumo do que você entendeu sobre o advogado e o escritório.
+2. O objetivo da landing page.
+3. A identidade visual que deverá ser respeitada.
+4. A estrutura das seções planejadas.
+5. Como você trabalhará com as imagens de referência.
+6. Quais informações ainda não estão confirmadas.
+
+Finalize confirmando que está preparado para receber a primeira imagem de referência e implementar a seção correspondente.
+
+Aguarde minha próxima instrução antes de iniciar qualquer implementação.
